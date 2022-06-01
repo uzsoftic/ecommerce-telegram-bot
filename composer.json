@@ -1,0 +1,24 @@
+{
+    "name": "uzsoftic/ecommerce-telegram-bot",
+    "description": "Ecommerce telegram bot based PHP (Laravel)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uzsoftic\\EcommerceTelegramBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uzsoftic",
+            "email": "softuzb@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/http": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

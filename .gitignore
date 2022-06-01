@@ -1,0 +1,8 @@
+build
+composer.phar
+composer.lock
+docs
+vendor
+coverage
+.DS_Store
+.git
